@@ -8,7 +8,7 @@ public class StockReport {
 
 		public static void main(String[] args) {
 			Scanner scanner=new Scanner(System.in);
-			System.out.println("pLease enter the number of stock ypu will enter:");
+			System.out.println("pLease enter the number of stock ");
 			int numberOfStock=scanner.nextInt();
 			
 			for(int i=0;i<numberOfStock;i++) {
